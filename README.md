@@ -1,6 +1,8 @@
 # WindowManager
 Use keyboard and mouse shortcuts to manipulate windows (drag and drop, resize, maximize, minimize), launch programs and open favorite folders.
 
+Press **CTRL + ALT + SHIFT + Q** to display Help and quit the program.
+
 
 ## Window management
  * **ALT + B**                -> Maximise window under cursor
