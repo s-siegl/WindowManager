@@ -14,3 +14,7 @@ Use keyboard and mouse shortcuts to manipulate windows (drag and drop, resize, m
  * **ALT + P**                -> Start Powershell
  * **CTRL + ALT + D**         -> Open Documents
  * **CTRL + ALT + J**         -> Open Downloads
+
+# Thanks
+Thanks to ascend4ant for the initial code to retrieve window handle below cursor:
+https://stackoverflow.com/questions/11234628/autoit-find-window-under-mouse-pointer
